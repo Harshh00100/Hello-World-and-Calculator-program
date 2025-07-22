@@ -22,3 +22,13 @@ int main() {
 
 return 0;
 }
+
+/* output:
+Hello,World
+Enter first number : 2
+Enter second number : 2
+Addition of both number : 4
+Subtraction of both numbers : 0
+Division of both numbers : 1
+Multiplication of both numbers : 4
+    */
